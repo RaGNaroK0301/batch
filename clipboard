@@ -1,0 +1,35 @@
+PowerShell Script:
+	Windows server administration
+	run batch jobs automation
+	task scheduling
+	troubleshooting server errors
+	Integration with 3rd party cloud data and database (Jira, dropzone, Microsoft365, MSSQL etc.)
+ 
+DevOps
+	Architecture design
+	Infrastructure setup (components installation, firewall opening)
+	Service Monitoring (on-premise websites, cloud service)
+	Issue troubleshooting
+	RTB works (website cert management, service account management, server patching, etc.)
+ 
+Python:
+	Data ETL with Corp sources (notebook scripts, Jamf, Casper, etc.)
+	MCP image development
+ 
+CICD (Jenkins)
+	Setup Jenkins server and agents
+	Manage jobs and roles
+	Pipeline Deployments
+	Source code management (GitHub)
+ 
+Azure:
+	Service Principal management
+	Viva License management (through DL automation)
+
+Power Platform:
+	Gateway management
+	Power BI reports with data source with gateway support
+ 
+Elasticsearch
+	Setup Elasticsearch
+	Configure Logstash data refresh	
